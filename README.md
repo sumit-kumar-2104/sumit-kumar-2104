@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sumit-kumar-2104
+- 👋 Hi, I’m @sumit-kumar
 - 👀 I’m interested in data science and programming
 - 🌱 I’m currently learning clang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta - sumit.neh
+- 📫 How to reach me insta - sum.neh
 
 <!---
 sumit-kumar-2104/sumit-kumar-2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
