@@ -1,68 +1,70 @@
-# 👋 Hi, I'm Sumit Kumar
+![Header](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-🎓 B.Tech CSE @ UIET, MDU | BS in Data Science @ IIT Madras  
-🔬 Research Intern @ IIIT NR | IIITD MIDAS Lab | CBT MDU  
-💻 Machine Learning | Computer Vision | Big Data | Deep RL  
-📫 [sumitkumar59378@gmail.com](mailto:sumitkumar59378@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumit-kumar-4a91a8297/) | [Resume](https://drive.google.com/file/d/1CbFK5JpMX5RKdFp5N5-YNc1MTIYxuuOd/view?usp=sharing)
-📫 How to reach me insta - sum.neh
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+<h3 align="center">Machine Learning Researcher | Data Science @ IITM | B.Tech CSE @ UIET</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-kumar-2104&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-kumar-2104" /> </p>
 
-## 🧠 About Me
-
-I am a research-driven computer science undergraduate with a strong foundation in machine learning, computer vision, and big data systems. Currently working as a research intern across institutions like IIIT Naya Raipur, IIIT Delhi (MIDAS Lab), and MDU, my focus areas span from Spark optimization using Deep Distributional Reinforcement Learning to real-time plant disease detection with YOLOv8.
-
----
-
-## 🚀 Projects
-
-### 🔁 [RB_DDRL](https://github.com/sumit-kumar-2104/RB_DDRL)
-Optimizing Apache Spark job scheduling with Rainbow DQN and analyzing deep learning frameworks for resource-efficient cloud computing.
-
-### 🌱 [AgriCure](https://github.com/sumit-kumar-2104/Agri_Cure)
-Android app for real-time plant disease detection using YOLOv8, aiding farmers with treatment insights.
-
-### 🧪 [Midas-Assignment](https://github.com/sumit-kumar-2104/Midas-Assingment)
-Exploring object detection performance (YOLOv8, Faster R-CNN, EfficientDet, SSD) using Flickr8k-based datasets.
-
-### ❓ [Quiz Master](https://github.com/sumit-kumar-2104/Quiz-Master-22f3002869)
-A multi-role quiz platform using Flask for structured learning and exam preparation.
+- 🔬 Research Intern at **IIIT NR, IIITD (MIDAS Lab), MDU CBT**
+- 🌱 Currently exploring **Multimodal Learning, Deep Reinforcement Learning, and CV**
+- 💬 Ask me about **TensorFlow, PyTorch, YOLO, Flask, Apache Spark**
+- 📫 Reach me at **sumitkumar59378@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1CbFK5JpMX5RKdFp5N5-YNc1MTIYxuuOd/view?usp=sharing)
 
 ---
 
-## 📜 Experience Highlights
-
-- **IIIT Naya Raipur**: Deep RL in Spark job scheduling, paper co-author @ INCOFT 2025
-- **MDU Biotechnology Center**: YOLOv8-based plant disease detection and seed classification, mobile/web integration
-- **IIIT Delhi - MIDAS Lab**: Multimodal learning research across vision, audio, and text data
-- **IITM-CII**: SCM intern working on real-world industry problems
-
----
-
-## 🏅 Achievements
-
-- 🥉 3rd in District Debate @ NYF 2024 (AIU)
-- 🏆 2nd Place - University Debate Championship
-- 📜 Paper presentations at **INCOFT 2025**, **ETFMS 2024**
-- 🏅 NDA Qualified (Top 7,000 among 500,000+ applicants)
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sumit-kumar-4a91a8297/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:sumitkumar59378@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+<a href="https://medium.com/@sumitkumar59378"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium" height="30" width="30" /></a>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
-
-**Languages:** Python, C, Java, C++, SQL, JavaScript, Vue.js  
-**ML/DL:** TensorFlow, PyTorch, YOLO, Faster RCNN, A3C, C51, Hugging Face  
-**Web:** Flask, HTML, CSS, JS, Bootstrap, SQLite  
-**Big Data:** Apache Spark, Cloud Computing  
-**Tools:** Git, RoboFlow, Postman, Mendeley, MySQL, PostgreSQL  
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+</p>
 
 ---
 
-## 💬 Let's Connect
+<h3 align="left">📌 Projects</h3>
 
-I'm always up for collaborating on research, open-source, or impactful ML/CV projects. Reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/sumit-kumar-4a91a8297/).
+- 🧠 [RB_DDRL](https://github.com/sumit-kumar-2104/RB_DDRL): Spark Job Scheduling using Rainbow DQN  
+- 🌿 [AgriCure](https://github.com/sumit-kumar-2104/Agri_Cure): Real-time Plant Disease Detection App  
+- 📚 [Quiz Master](https://github.com/sumit-kumar-2104/Quiz-Master-22f3002869): Multi-user Quiz Web App with Flask  
+- 🔍 [Midas CV Analysis](https://github.com/sumit-kumar-2104/Midas-Assingment): Model Comparison using Flickr8k  
 
 ---
 
-⭐ *Thanks for visiting my GitHub!*
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-2104&show_icons=true&theme=github_dark" alt="sumit-kumar-2104" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-2104&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-kumar-2104&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile. Feel free to explore my repositories and connect with me!*
