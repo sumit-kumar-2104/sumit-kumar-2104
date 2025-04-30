@@ -1,4 +1,4 @@
-![Banner]([https://i.imgur.com/UnG6TJe.png](https://pin.it/3mQnDigHo))
+![Banner]([[https://i.imgur.com/UnG6TJe.png](https://pin.it/3mQnDigHo)](https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest?cb=20140921221019))
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">Research-Oriented Developer | Machine Learning & CV Enthusiast | B.Tech @ UIET | BS @ IITM</h3>
