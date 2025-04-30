@@ -24,7 +24,7 @@
 - YOLOv8-based Plant Disease Detection 🌱
 - CV Model Benchmarking using Faster R-CNN, SSD, EfficientDet 🔍
 
-📄 Checkout my [Resume](https://drive.google.com/file/d/1CbFK5JpMX5RKdFp5N5-YNc1MTIYxuuOd/view)
+📄 Checkout my [Resume](https://drive.google.com/file/d/1_2y6XPqvDSw7bDABjgmNFE_ifTTxS0zk/view?usp=sharing)
 
 💬 Ask me about **TensorFlow, PyTorch, YOLO, Apache Spark, Flask, Research Writing**
 
