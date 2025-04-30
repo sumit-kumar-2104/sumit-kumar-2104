@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/UnG6TJe.png)
+![Banner]([https://i.imgur.com/UnG6TJe.png](https://pin.it/3mQnDigHo))
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">Research-Oriented Developer | Machine Learning & CV Enthusiast | B.Tech @ UIET | BS @ IITM</h3>
