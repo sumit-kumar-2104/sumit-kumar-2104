@@ -11,7 +11,7 @@
 </div>
 
 <br/>
-<img src="[https://i.imgur.com/UnG6TJe.png](https://i.pinimg.com/736x/a4/9e/34/a49e344c36f0431200042e2e99616f6d.jpg)" alt="Research and Dev Banner"/>
+<img src="https://i.pinimg.com/736x/a4/9e/34/a49e344c36f0431200042e2e99616f6d.jpg" alt="Research and Dev Banner"/>
 <br/>
 
 🔬 I’m currently working on **Multimodal Learning**, **Object Detection**, and **Reinforcement Learning**
