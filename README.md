@@ -26,7 +26,7 @@
 
 📄 Checkout my [Resume](https://drive.google.com/file/d/1_2y6XPqvDSw7bDABjgmNFE_ifTTxS0zk/view?usp=sharing)
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/SumitKumar2104)
+My Hugging Face: [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/SumitKumar2104)
 
 
 💬 Ask me about **TensorFlow, PyTorch, YOLO, Apache Spark, Flask, Research Writing**
