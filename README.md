@@ -1,21 +1,15 @@
 <h1 align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=700&lines=%F0%9F%92%A1+Hey%2C+I+am+Sumit+Kumar+%7C+Welcome+to+my+Kame+House+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-
 <h3 align='center'>
   Research Enthusiast | Machine Learning Developer | BS @ IITM 🎓 | B.Tech @ UIET 💻
 </h3>
-
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=sumit-kumar-2104&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
 <br/>
-
 <img src="https://i.pinimg.com/736x/a4/9e/34/a49e344c36f0431200042e2e99616f6d.jpg" alt="Research and Dev Banner" width="100%" />
-
 <br/>
-
 🔬 I'm currently working on **Multimodal Learning**, **Object Detection**, and **Reinforcement Learning**
 
 🌱 Learning deeply about **Cloud Computing**, **Big Data**, and **AI for Agriculture**
@@ -54,49 +48,42 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)]()
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-2104&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-kumar-2104&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-2104&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🤗 Hugging Face Models & Datasets
-
-<p align="center">
-  Check out my published models and datasets on <a href="https://huggingface.co/SumitKumar2104"><b>Hugging Face</b></a>!
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-2104&show_icons=true&theme=radical" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-2104&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧪 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/sumit-kumar-2104/RB_DDRL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=RB_DDRL&theme=radical&hide_border=true" alt="RB_DDRL Repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sumit-kumar-2104/Agri_Cure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=Agri_Cure&theme=radical&hide_border=true" alt="Agri_Cure Repository" />
-  </a>
-</p>
-
-
+<div align="center"><a href="https://github.com/sumit-kumar-2104/RB_DDRL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=RB_DDRL&theme=radical" />
+</a></div>
+<br/>
+<div align="center"><a href="https://github.com/sumit-kumar-2104/Agri_Cure">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=Agri_Cure&theme=radical" />
+</a></div>
 
 ---
 
+## 🏆 Trophies
+
 <p align="center">
-  ⭐ <i>Thanks for visiting! Let's build something awesome together.</i> ⭐
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit-kumar-2104&theme=radical&margin-w=15&margin-h=15&no-frame=true&title=Followers,Stars,Commits,Repositories,Issues,PullRequest"/>
 </p>
+
+---
+
+⭐ *Thanks for visiting! Let's build something awesome together.*
