@@ -60,18 +60,14 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit-kumar-2104&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumit-kumar-2104&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-2104&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-kumar-2104&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180em" />
+</p>
 
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-2104&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-2104&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
@@ -85,33 +81,25 @@
 
 ## 🧪 Featured Repositories
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/sumit-kumar-2104/RB_DDRL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=RB_DDRL&theme=radical&hide_border=true" alt="RB_DDRL Repository" />
+  </a>
+</p>
 
-[![RB_DDRL](https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=RB_DDRL&theme=radical&hide_border=true)](https://github.com/sumit-kumar-2104/RB_DDRL)
-
-[![Agri_Cure](https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=Agri_Cure&theme=radical&hide_border=true)](https://github.com/sumit-kumar-2104/Agri_Cure)
-
-</div>
+<p align="center">
+  <a href="https://github.com/sumit-kumar-2104/Agri_Cure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit-kumar-2104&repo=Agri_Cure&theme=radical&hide_border=true" alt="Agri_Cure Repository" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sumit-kumar-2104&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumit-kumar-2104&theme=react-dark&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit-kumar-2104&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
+</p>
 
 ---
 
